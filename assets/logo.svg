@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- 
-	'On the shoulders of giants.''
-	
-    Foundation forked from dcurtis/markdown-mark. https://github.com/dcurtis/markdown-mark
-	
-	Checkmark provided by Vectr standard shape library. https://vectr.com
+	'On the shoulders of giants.'
+	* Foundation forked from dcurtis/markdown-mark. https://github.com/dcurtis/markdown-mark
+	* Checkmark provided by Vectr standard shape library. https://vectr.com
 -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 229 148" width="229" height="148"><defs><path d="M203.95 14.7C210.65 14.7 214 18.05 214 24.75C214 83.85 214 116.68 214 123.25C214 129.95 210.65 133.3 203.95 133.3C96.61 133.3 36.98 133.3 25.05 133.3C18.35 133.3 15 129.95 15 123.25C15 64.15 15 31.32 15 24.75C15 18.05 18.35 14.7 25.05 14.7C132.39 14.7 192.02 14.7 203.95 14.7Z" id="b26Aaboff9"></path><path d="M95.1 40.53L115.2 40.53L115.2 108.87L95.1 108.87L95.1 69.67L75 94.8L54.9 69.67L54.9 108.87L34.8 108.87L34.8 40.53L54.9 40.53L75 65.65L95.1 40.53Z" id="f2mju7p3Gk"></path><path d="M168.59 48.94L134.24 48.94L134.24 100.46L185.76 100.46L185.76 70.41L194.35 70.41L194.35 109.05L125.66 109.05L125.66 40.35L168.59 40.35L168.59 48.94ZM166.9 79.89L166.91 79.9L156.96 89.85L138.52 71.41L148.47 61.46L156.95 69.94L180.1 46.79L190.05 56.74L166.9 79.89Z" id="dEEhIHDeY"></path></defs><g><g><g><use xlink:href="#b26Aaboff9" opacity="1" fill="#000000" fill-opacity="0"></use><g><use xlink:href="#b26Aaboff9" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="10" stroke-opacity="1"></use></g></g><g><use xlink:href="#f2mju7p3Gk" opacity="1" fill="#000000" fill-opacity="1"></use><g><use xlink:href="#f2mju7p3Gk" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#dEEhIHDeY" opacity="1" fill="#000000" fill-opacity="1"></use></g></g></g></svg>
