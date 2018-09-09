@@ -6,7 +6,8 @@ import helpers
 @click.argument('dir', default='.')
 def cli(dir):
 	"""Markdone CLI"""
-	helpers.getRoot(dir)
+	helpers.get_root(dir)
 
 if __name__ == '__main__':
+	# pylint: disable=no-value-for-parameter
 	cli()
